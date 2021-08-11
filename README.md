@@ -1,6 +1,6 @@
 # Zoom Clone
 
-A calculator project built with Node.js
+A Zoom Meetings project built with Node.js
 
 ## Features
 
